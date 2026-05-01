@@ -9,13 +9,14 @@ Twigs definition:
 
 Classification rules:
 <img width="666" height="197" alt="image" src="https://github.com/user-attachments/assets/b8d02a79-6700-4dc4-aeaf-18ba398a11df" />
-Twigs pruning:
+Twigs orientation optimization:
 <img width="1040" height="706" alt="image" src="https://github.com/user-attachments/assets/35bf10d4-3d88-4ff5-bb15-16cf469ddb4f" />
 
-the metric used for the pruning:
+the metric used for the otimization: (to find an orthogonal twigs to the boundary or to the separator)
 <img width="426" height="113" alt="image" src="https://github.com/user-attachments/assets/19cd544e-5185-486a-9f7a-a1a2206acc36" />
 
 Find the published paper:
+
 Kamel Mebarkia, Aicha Reffad. Twigs classifiers based on the boundary vectors Machine (BVM): A novel approach for supervised learning.
 Information Sciences, Volume 701, 2025, 121853, ISSN 0020-0255,
 https://doi.org/10.1016/j.ins.2024.121853.
