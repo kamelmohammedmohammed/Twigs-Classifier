@@ -16,8 +16,7 @@ Twig definition: a twig is contructed by one boundary vector (BV) that is its a 
 
 Classification rules:
 
-<img width="426" height="113" alt="image" src="https://github.com/user-attachments/assets/7f1461f7-efee-4699-8bfe-311082879024" />
-
+<img width="666" height="197" alt="image" src="https://github.com/user-attachments/assets/4a9e7ca9-6bb2-4077-8107-d93368f601a5" />
 
 When we perform a classification, the Twigs Classifier acts as an ensemble classification.
 It uses both distance (nearest twig) and direction (its direction or orientation)
