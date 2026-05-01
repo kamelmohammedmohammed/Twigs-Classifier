@@ -7,6 +7,13 @@ Twigs definition:
 <img width="1166" height="574" alt="image" src="https://github.com/user-attachments/assets/9e734493-8cdc-4ee7-92f7-6afba1acc88d" />
 
 Classification rules:
-<img width="655" height="112" alt="image" src="https://github.com/user-attachments/assets/0acb193a-464a-403f-86dc-2d5eb41d7ce6" />
+<img width="666" height="197" alt="image" src="https://github.com/user-attachments/assets/b8d02a79-6700-4dc4-aeaf-18ba398a11df" />
+Twigs pruning:
+<img width="1040" height="706" alt="image" src="https://github.com/user-attachments/assets/35bf10d4-3d88-4ff5-bb15-16cf469ddb4f" />
+
+the metric used for the pruning:
+<img width="426" height="113" alt="image" src="https://github.com/user-attachments/assets/19cd544e-5185-486a-9f7a-a1a2206acc36" />
+
+
 
 
