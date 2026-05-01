@@ -4,7 +4,8 @@ The purpose of the BVB and the BVBC algorithms is finding the Twigs (the BV and 
 Figure bellow presents the BVB algorithm behavior while finding twigs for three classes classification problem. It uses the bisection principle. 
 <img width="1342" height="756" alt="image" src="https://github.com/user-attachments/assets/58160cac-8a1c-4e40-be7a-e0937acc60cc" />
 
-Twigs definition:
+Twig definition: a twig is contructed by one boundary vector (BV) that is its a center and the two corresponding Support vectors (SVs)
+
 <img width="1166" height="574" alt="image" src="https://github.com/user-attachments/assets/9e734493-8cdc-4ee7-92f7-6afba1acc88d" />
 
 Classification rules:
