@@ -1,6 +1,7 @@
 We propose the Twigs classifier — a new non-parametric method for classification. Unlike k-NN, which stores all training points, Twigs stores only 'boundary vectors' found by a novel algorithm called BVB (Boundary Vector Bisection). BVB pushes seeds toward class boundaries, independent of data dimensionality. A second version (BVBC) handles spiral problems. Classification then requires only a dot product. On 20 UCI datasets, Twigs outperforms k-NN, SVM, and even deep learning on several imbalanced and high-dimensional tasks. In 14 out of 20 cases, the misclassification rate was below 1%.
 
 The purpose of the BVB and the BVBC algorithms is finding the Twigs (the BV and the 2 corresponding SVs)
+Figure bellow presents the BVB algorithm behavior while finding twigs for three classes classification problem. It uses the bisection principle. 
 <img width="1342" height="756" alt="image" src="https://github.com/user-attachments/assets/58160cac-8a1c-4e40-be7a-e0937acc60cc" />
 
 Twigs definition:
