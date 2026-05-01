@@ -25,8 +25,10 @@ Twigs orientation optimization:
 
 <img width="763" height="518" alt="image" src="https://github.com/user-attachments/assets/6c85a6a6-8771-4ca0-9b52-3960b4ec1d5e" />
 
-The metric used for the otimization: (to find an orthogonal twigs to the boundary or to the separator)
+The metric used for the otimization: (to find orthogonal twigs to the boundary or to the separator)
+
 <img width="426" height="113" alt="image" src="https://github.com/user-attachments/assets/19cd544e-5185-486a-9f7a-a1a2206acc36" />
+Where Nic is the number of instances that are in charge of the twig (the nearest instances to the twig)
 
 Find the published paper:
 
