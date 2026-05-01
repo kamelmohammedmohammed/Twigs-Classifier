@@ -15,6 +15,9 @@ the metric used for the pruning:
 <img width="426" height="113" alt="image" src="https://github.com/user-attachments/assets/19cd544e-5185-486a-9f7a-a1a2206acc36" />
 
 Find the published paper:
+Kamel Mebarkia, Aicha Reffad. Twigs classifiers based on the boundary vectors Machine (BVM): A novel approach for supervised learning.
+Information Sciences, Volume 701, 2025, 121853, ISSN 0020-0255,
+https://doi.org/10.1016/j.ins.2024.121853.
 https://www.sciencedirect.com/science/article/abs/pii/S0020025524017675
 
 
