@@ -34,5 +34,6 @@ Kamel Mebarkia, Aicha Reffad. Twigs classifiers based on the boundary vectors Ma
 Information Sciences, Volume 701, 2025, 121853, ISSN 0020-0255,
 https://doi.org/10.1016/j.ins.2024.121853.
 https://www.sciencedirect.com/science/article/abs/pii/S0020025524017675
+Email: kamel.mebarkia@rwth-aachen.de
 
 
