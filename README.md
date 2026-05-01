@@ -4,25 +4,28 @@ The purpose of the BVB and the BVBC algorithms is finding the Twigs (the BV and 
 
 Figure bellow shows how does the BVB algorithm uses the bisection method to obtain the boundary vectors (BVs) and the support vectors(SVs)
 
-<img width="1174" height="813" alt="image" src="https://github.com/user-attachments/assets/a8f8637c-6bd6-42e9-ab3f-943914c70b39" />
+<img width="680" height="471" alt="image" src="https://github.com/user-attachments/assets/d0b643c5-5afb-4283-99e0-c4479f85d13b" />
 
 Figure bellow presents the BVB algorithm behavior while finding twigs for three classes classification problem. It uses the bisection principle. 
-<img width="1342" height="756" alt="image" src="https://github.com/user-attachments/assets/58160cac-8a1c-4e40-be7a-e0937acc60cc" />
+
+<img width="1089" height="560" alt="image" src="https://github.com/user-attachments/assets/8f131042-4092-40c4-8dba-e34c5ec5ca4b" />
 
 Twig definition: a twig is contructed by one boundary vector (BV) that is its a center and the two corresponding Support vectors (SVs)
 
-<img width="1166" height="574" alt="image" src="https://github.com/user-attachments/assets/9e734493-8cdc-4ee7-92f7-6afba1acc88d" />
+<img width="933" height="459" alt="image" src="https://github.com/user-attachments/assets/416c6244-4c2a-4b21-b5cd-7d46b5b8694f" />
 
 Classification rules:
-<img width="666" height="197" alt="image" src="https://github.com/user-attachments/assets/b8d02a79-6700-4dc4-aeaf-18ba398a11df" />
+
+{█(&𝐷𝑝=(𝑃𝐶.) ⃗(𝐴𝐵) ⃗  (𝑑𝑜𝑡 𝑝𝑟𝑜𝑑𝑢𝑐𝑡)@&𝐼𝐹 𝐷𝑝>0; 𝑇ℎ𝑒𝑛 〖𝑃∈ 〗^′ 𝐴^′ 𝐶𝑙𝑎𝑠𝑠 @&𝐼𝐹 𝐷𝑝<0; 𝑇ℎ𝑒𝑛 〖𝑃∈ 〗^′ 𝐵^′  𝐶𝑙𝑎𝑠𝑠@&𝐼𝐹 𝐷𝑝=0;𝑇ℎ𝑒𝑛 𝑃 ∈𝐵𝑜𝑢𝑛𝑑𝑎𝑟𝑖𝑒𝑠)  ┤
 
 When we perform a classification, the Twigs Classifier acts as an ensemble classification.
 It uses both distance (nearest twig) and direction (its direction or orientation)
 
 Twigs orientation optimization:
-<img width="1040" height="706" alt="image" src="https://github.com/user-attachments/assets/35bf10d4-3d88-4ff5-bb15-16cf469ddb4f" />
 
-the metric used for the otimization: (to find an orthogonal twigs to the boundary or to the separator)
+<img width="763" height="518" alt="image" src="https://github.com/user-attachments/assets/6c85a6a6-8771-4ca0-9b52-3960b4ec1d5e" />
+
+The metric used for the otimization: (to find an orthogonal twigs to the boundary or to the separator)
 <img width="426" height="113" alt="image" src="https://github.com/user-attachments/assets/19cd544e-5185-486a-9f7a-a1a2206acc36" />
 
 Find the published paper:
