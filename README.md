@@ -30,6 +30,7 @@ The metric used for the otimization: (to find orthogonal twigs to the boundary o
 <img width="426" height="113" alt="image" src="https://github.com/user-attachments/assets/19cd544e-5185-486a-9f7a-a1a2206acc36" />
 Where Nic is the number of instances that are in charge of the twig (the nearest instances to the twig)
 
+
 Find the published paper:
 
 Kamel Mebarkia, Aicha Reffad. Twigs classifiers based on the boundary vectors Machine (BVM): A novel approach for supervised learning.
