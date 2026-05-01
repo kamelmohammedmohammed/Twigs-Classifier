@@ -14,6 +14,7 @@ Twigs pruning:
 the metric used for the pruning:
 <img width="426" height="113" alt="image" src="https://github.com/user-attachments/assets/19cd544e-5185-486a-9f7a-a1a2206acc36" />
 
-
+Find the published paper:
+https://www.sciencedirect.com/science/article/abs/pii/S0020025524017675
 
 
